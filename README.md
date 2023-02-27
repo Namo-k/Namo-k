@@ -31,9 +31,9 @@
     <img align="center" alt="C-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-##
-
 ## Contact
-
-- <a href="https://www.linkedin.com/in/namodacane-kaliamoorthy/">Linkedin</a>
-- <a href="mailto:nalkalia4@gmail.com/">E-Mail</a>
+<div style="display: inline_block;">
+  <a href="https://www.linkedin.com/in/namodacane-kaliamoorthy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:nalkalia4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.gg/rAhaf6zvc4"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
