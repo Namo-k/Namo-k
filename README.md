@@ -1,4 +1,4 @@
-### Bienvenue sur ma page GitHub 👋
+### Welcome on my GitHub page 👋
 
 <!--
 - 🔭 I’m currently working on ...
@@ -10,3 +10,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+
+>Name : Namodacane
+
+>Age : 18 years old
+
+>Computer science student at the IUT of Paris
