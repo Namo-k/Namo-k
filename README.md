@@ -22,8 +22,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namo-k&layout=compact&lang_count=8&theme=gotham"/>
 </div>
 
-## Languages
-
 <div style="display: inline_block;"><br>
     <img align="center" alt="C-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="Cplusplus-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -32,6 +30,8 @@
     <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="C-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
+
+##
 
 ## Contact
 
