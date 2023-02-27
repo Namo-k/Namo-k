@@ -19,7 +19,10 @@
 
 >Status : Computer science student at the IUT of Paris
 
-<div>
+<div style="
+            display: flex;
+            justify-content:space-around;
+            ">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=namo-k&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namo-k&layout=compact&lang_count=8&theme=gotham"/>
 </div>
