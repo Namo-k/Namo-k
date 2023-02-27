@@ -13,9 +13,7 @@
 
 ## About me
 
->Name : Namo-K
-
->Age : 18 years old
+>Namodacane K - 18 years old
 
 >Status : Computer science student at the IUT of Paris
 
