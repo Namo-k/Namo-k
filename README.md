@@ -23,7 +23,7 @@
 </div>
 
 ## ⚡ Skills
-<div style="display: inline_block;"><br>
+<div style="display: inline_block;">
     <img align="center" alt="C-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="Cplusplus-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Cplusplus-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
