@@ -32,6 +32,7 @@
     <img align="center" alt="C-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 ## Help me ! The snake eat my contribution graph !!
+
 ![snake gif](https://github.com/Namo-k/Namo-k/blob/output/github-contribution-grid-snake.gif)
 
 ## 📫 Contact
