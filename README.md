@@ -40,6 +40,7 @@
  ![Snake animation](https://github.com/Namo-k/Namo-k/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
 ## 📫 Contact
 For any project or job offer, do not hesitate to contact me through these social networks:
 <div style="display: inline_block;">
