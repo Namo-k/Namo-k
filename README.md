@@ -36,7 +36,7 @@
 
 ##  Help me ! The snake is eating my contribution graph !!
 
-<div align="center"> ![Snake animation](https://github.com/Namo-k/Namo-k/blob/output/github-contribution-grid-snake.svg) </div>
+![Snake animation](https://github.com/Namo-k/Namo-k/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contact
 For any project or job offer, do not hesitate to contact me through these social networks:
