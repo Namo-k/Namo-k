@@ -12,7 +12,7 @@
 -->
 <div align="center">
   
-  <!--  ![Snake animation](https://github.com/Namo-k/Namo-k/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/Namo-k/Namo-k/blob/output/github-contribution-grid-snake.svg?palette=github-dark) 
 
  <!-- <img src="https://github.com/Namo-k/Namo-k/output/snake.svg" alt="Snake animation" /> -->
 
