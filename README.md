@@ -1,5 +1,7 @@
 <h2 align="center">Hi ! Welcome on my GitHub page 👋</h2>
 
+<!-- /!\ Oops ! Tu as atteint la limite de curiosité autorisée. Je te conseille de retourner à l'accueil tant que tu le peux encore 😉 /!\  -->
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,6 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
   
 ![Snake animation](https://github.com/Namo-k/Namo-k/blob/output/github-contribution-grid-snake-dark.svg)
@@ -40,17 +43,16 @@
 
 ## 🏆 Trophies
 
- <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Namo-k&theme=tokyonight&margin-w=15&margin-h=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy) -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Namo-k&theme=tokyonight&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="trophy">
   </a>
 </div>
 
-
 #
 
 ## 📫 Contact
+
 For any project or job offer, do not hesitate to contact me through these social networks:
 <div style="display: inline_block;" align="center">
   <a href="https://www.linkedin.com/in/namodacane-kaliamoorthy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
