@@ -37,6 +37,17 @@
     <img align="center" alt="C-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
+
+## 🏆 Trophies
+
+ <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Namo-k&theme=tokyonight&margin-w=15&margin-h=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy) -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Namo-k&theme=tokyonight&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="trophy">
+  </a>
+</div>
+
+
 #
 
 ## 📫 Contact
