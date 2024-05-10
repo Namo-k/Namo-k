@@ -12,9 +12,14 @@
 -->
 <div align="center">
   
- ![Snake animation](https://github.com/Namo-k/Namo-k/blob/output/github-contribution-grid-snake.svg)
+  <!--  ![Snake animation](https://github.com/Namo-k/Namo-k/blob/output/github-contribution-grid-snake.svg) -->
 
  <!-- <img src="https://github.com/Namo-k/Namo-k/output/snake.svg" alt="Snake animation" /> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
   
 </div>
 
