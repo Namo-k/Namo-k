@@ -15,7 +15,7 @@
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/0xGuigui/0xGuigui/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Namo-k/Namo_k/output/snake.svg" alt="Snake animation" />
   
 </div>
 
