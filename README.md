@@ -15,7 +15,7 @@
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/Namo-k/Namo_k/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Namo-k/Namo-k/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
   
 </div>
 
