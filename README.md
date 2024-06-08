@@ -25,21 +25,114 @@
 
 >Status : Computer science student at the IUT of Paris ! I study programming and software development.
 
-<div align="center" >
+<div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=namo-k&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=namo-k&layout=compact&lang_count=32&theme=gotham"/>
 </div>
 
 ## ⚡ Skills
-<div style="display: inline_block;">
-    <img align="center" alt="C-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="Cplusplus-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Cplusplus-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="HTML-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="C-icon" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
 
+<table align="center">
+  <tr>
+    <th align="center" valign="middle">Languages 😎</th>
+    <th align="center" valign="middle">Tools 🔧</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <h4><b>My Favorite language 😎 </b></h4>
+    </td>
+    <td align="center" valign="middle">
+      <h4><b>Tools for my favourite language 😎 </b></h4>
+    </td>
+  </tr>
+  <tr>
+    <td height="100" align="center" valign="middle">
+      <div>
+        <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      </div>
+    </td>
+    <td height="100" align="center" valign="middle">
+      <div style="display: inline_block;">
+        <img alt="Eclipse" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
+        <img alt="IntelliJ" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <h4><b>My favourite stack ❤️ </b></h4>
+    </td>
+    <td align="center" valign="middle">
+      <h4><b>Tools for my favourite stack ❤️ </b></h4>
+    </td>
+  </tr>
+  <tr>
+    <td height="100" align="center" valign="middle">
+      <div style="display: inline_block;">
+        <img alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+        <img alt="NestJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+        <img alt="GraphQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+        <img alt="Prisma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+      </div>
+    </td>
+    <td height="100" align="center" valign="middle">
+      <div style="display: inline_block;">
+        <img alt="WebStorm" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+        <img alt="DataGrip" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg">
+        <img alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <h4><b>Other skills in web dev 💛 </b></h4>
+    </td>
+    <td align="center" valign="middle">
+      <h4><b>Other Tools 💛 </b></h4>
+    </td>
+  </tr>
+  <tr>
+    <td height="100" align="center" valign="middle">
+      <div style="display: inline_block;">
+        <img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+        <img alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+        <img alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+        <img alt="jQuery" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
+        <img alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+        <img alt="Symfony" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg">
+        <img alt="Oracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+        <img alt="Jest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+      </div>
+    </td>
+     <td height="100" align="center" valign="middle" rowspan="3">
+      <div style="display: inline_block;">
+        <img alt="VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+        <img alt="PHPStorm" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg">
+        <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        <img alt="Trello" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
+        <img alt="Jira" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <h4><b>Other skills in programmation 💛 </b></h4>
+    </td>
+  </tr>
+  <tr>
+    <td height="100" align="center" valign="middle">
+      <div style="display: inline_block;">
+        <img alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+        <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
+        <img alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+        <img alt="Visual Basic" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg">
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Trophies
 
