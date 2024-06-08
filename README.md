@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <h4><b>My Favorite language 😎 </b></h4>
+      <h4><b>My Favourite language 😎 </b></h4>
     </td>
     <td align="center" valign="middle">
       <h4><b>Tools for my favourite language 😎 </b></h4>
