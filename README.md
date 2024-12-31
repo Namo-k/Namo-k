@@ -21,7 +21,7 @@
 
 ## 💬 About me
 
->Namodacane K - 19 years old
+>Namodacane K - 20 years old
 
 >Status : Computer science student at the IUT of Paris ! I study programming and software development.
 
