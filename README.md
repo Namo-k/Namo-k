@@ -26,8 +26,8 @@
 >Status : Engineering student at the EPITA ! I study programming and software development.
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=namo-k&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=namo-k&layout=compact&lang_count=32&theme=gotham"/>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=namo-k&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=namo-k&layout=compact&lang_count=32&theme=gotham"/>
 </div>
 
 ## ⚡ Skills
