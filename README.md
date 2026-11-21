@@ -21,7 +21,7 @@
 
 ## 💬 About me
 
->Namodacane K - 21 years old
+>Namodacane K. - 22 years old
 
 >Status : Engineering student at the EPITA ! I study programming and software development.
 
